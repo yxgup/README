@@ -1,26 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T08:39:13.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Ooqxdyq7loXUxgJM3gJh" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T09:57:53.387Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="HlQOFYp_oe8VzYSjYQ_i" version="14.4.3" type="github">
   <diagram id="0ql-77iRh93Zedp5rYDf" name="Page-1">
     <mxGraphModel dx="901" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XVMsI3g6lcJiQLdyO5kc-1" value="定位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="190" width="90" height="40" as="geometry" />
+          <mxGeometry x="40" y="160" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XVMsI3g6lcJiQLdyO5kc-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="190" width="610" height="40" as="geometry" />
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-2" value="&lt;span style=&quot;font-size: 16px ; color: rgb(51 , 0 , 26) ; text-indent: 0in ; font-family: &amp;#34;pingfang sc regular&amp;#34; ; letter-spacing: 0pt ; font-weight: bold ; vertical-align: baseline&quot;&gt;打造稳定、高效、易用的特征引擎，高效支持业务发展&lt;/span&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="610" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XVMsI3g6lcJiQLdyO5kc-3" value="目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="250" width="90" height="40" as="geometry" />
+          <mxGeometry x="40" y="230" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XVMsI3g6lcJiQLdyO5kc-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="250" width="610" height="40" as="geometry" />
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-4" value="&lt;ul&gt;&lt;li&gt;质量：保障稳定性、特征质量&lt;/li&gt;&lt;li&gt;效率：提升特征建设效率，降低服务、维护成本&lt;/li&gt;&lt;li&gt;体验：保障需求按期交付率，提升系统易用性&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="610" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XVMsI3g6lcJiQLdyO5kc-5" value="系统支撑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="440" width="90" height="40" as="geometry" />
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-5" value="基础数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XVMsI3g6lcJiQLdyO5kc-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="440" width="610" height="40" as="geometry" />
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-6" value="出行分&amp;nbsp; &amp;nbsp;安全特征&amp;nbsp; &amp;nbsp; 流量特征&amp;nbsp; &amp;nbsp;供需特征&amp;nbsp; 策略特征&amp;nbsp; 听单诊断&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="540" width="610" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-9" value="抓手" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="285" width="90" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-10" value="系统内核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-11" value="Gizzle&amp;nbsp; &amp;nbsp;Sds&amp;nbsp; &amp;nbsp; Argus&amp;nbsp; DDict&amp;nbsp; &amp;nbsp;Rockstable&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="590" width="610" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-12" value="特征质量与治理&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;存量梳理&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;P0特征质量规则建设&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;特征治理平台建设&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="285" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-13" value="特征建设效率提升&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="285" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-14" value="SDS容量优化重构专项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="285" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-16" value="业务支持" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-17" value="网约车&amp;nbsp; &amp;nbsp; 花小猪&amp;nbsp; &amp;nbsp; 出租车&amp;nbsp; &amp;nbsp;国际化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="490" width="610" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XVMsI3g6lcJiQLdyO5kc-18" value="技术建设：&amp;nbsp; 服务上云&amp;nbsp; &amp;nbsp;稳定性&amp;nbsp; 成本优化&amp;nbsp; &amp;nbsp;学习分享&amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="420" width="610" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
